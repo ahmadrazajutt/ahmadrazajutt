@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @ahmadrazajutt
-- 👀 I’m interested in Coding
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-ahmadrazajutt/ahmadrazajutt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👋 Hi, I’m Ahmad Raza (ahmadraza.eccountant@gmail.com)
+👀 I’m passionate about coding and continuously improving my skills.
+🌱 Currently, I’m learning Laravel, MySQL, and diving deeper into JavaScript.
+💼 I’m a junior Laravel developer, always seeking new challenges and projects.
+💞️ I’m looking to collaborate on open-source projects and Laravel-based systems.
+📫 You can reach me at: ahmadraza.eccountant@gmail.com or connect with me on LinkedIn.
